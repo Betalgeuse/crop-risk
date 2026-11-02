@@ -1,0 +1,47 @@
+[
+  {
+    "file": "items_2022.csv",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000002863319&fileDetailSn=1&dataNm=x",
+    "dataset_page": "https://www.data.go.kr/data/15126188/fileData.do",
+    "dataset_title": "농업정책보험금융원_농작물재해보험 품목별 가입 및 지급현황_20221231",
+    "retrieved_at": "2026-11-02T20:46:14Z",
+    "sha256": "db25db30e848651b681818764fb2a7458cc654feee20e24eccc804129ed5ead5",
+    "bytes": 8381
+  },
+  {
+    "file": "items_2023.csv",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003079968&fileDetailSn=1&dataNm=x",
+    "dataset_page": "https://www.data.go.kr/data/15126188/fileData.do",
+    "dataset_title": "농업정책보험금융원_농작물재해보험 품목별 가입 및 지급현황_20231231",
+    "retrieved_at": "2026-11-02T20:46:14Z",
+    "sha256": "aa7edf8cfe9972e76fedb218d0d82b1bc0b4a448630fdad945d6c43a3cf6b8a2",
+    "bytes": 12057
+  },
+  {
+    "file": "items_2024.csv",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003567776&fileDetailSn=1&dataNm=x",
+    "dataset_page": "https://www.data.go.kr/data/15126188/fileData.do",
+    "dataset_title": "농업정책보험금융원_농작물재해보험 품목별 가입 및 지급현황_20241231",
+    "retrieved_at": "2026-11-02T20:46:14Z",
+    "sha256": "66976593db4dc079b85cb4fea2299bc3485cf5422bdd7cbe1711845eb0bcb2ba",
+    "bytes": 12570
+  },
+  {
+    "file": "yearly_payout.csv",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003565954&fileDetailSn=1&dataNm=x",
+    "dataset_page": "https://www.data.go.kr/data/15068602/fileData.do",
+    "dataset_title": "농업정책보험금융원_농작물재해보험 연도별 지급현황_20241231",
+    "retrieved_at": "2026-11-02T20:46:14Z",
+    "sha256": "e9329ffd6f44225e75f9fe523b1e56cc690a34e4889dd0f80472c193532cc6f8",
+    "bytes": 650
+  },
+  {
+    "file": "yearbook_2016.pdf",
+    "url": "https://www.mafra.go.kr/bbs/mafra/131/189964/download.do",
+    "dataset_page": "https://www.mafra.go.kr/bbs/mafra/131/189964/download.do",
+    "dataset_title": "2016 농업재해보험연감 (농림축산식품부)",
+    "retrieved_at": "2026-11-02T20:46:14Z",
+    "sha256": "dee2446d0c085218d04e72d684206b0fa255ba50dbd8f50b2995d2937f2560a4",
+    "bytes": 4508332
+  }
+]
